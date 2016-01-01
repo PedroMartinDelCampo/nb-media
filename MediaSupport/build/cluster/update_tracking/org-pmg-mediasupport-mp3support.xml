@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.pmg.mediasupport.mp3support">
+    <module_version install_time="1450023293996" last="true" origin="installer" specification_version="1.0">
+        <file crc="274661045" name="config/Modules/org-pmg-mediasupport-mp3support.xml"/>
+        <file crc="1876548323" name="modules/org-pmg-mediasupport-mp3support.jar"/>
+    </module_version>
+</module>
